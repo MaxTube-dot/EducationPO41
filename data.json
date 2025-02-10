@@ -2,7 +2,7 @@
     {
         "WeekName":"Верхняя",
         "WeekNum":0,
-        "FirstDay":"10.02.2025",
+        "FirstDay":"03.02.2025",
         "days": [
             {
                 "numDay":"2",
@@ -49,7 +49,7 @@
     {
         "WeekName":"Нижняя", 
         "WeekNum":1,
-        "FirstDay":"17.02.2025",
+        "FirstDay":"27.01.2025",
         "days": [
             {
                 "numDay":"1",
